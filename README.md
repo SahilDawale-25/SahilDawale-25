@@ -1,8 +1,7 @@
 # Hey there, I'm Sahil 👋  
 ### Aspiring Data Scientist | Data Analyst | ML Enthusiast  
 
-![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
-
+![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=SahilDawale-25&show_icons=true)
 
 I have transitioned into Data Science after working with
 web technologies such as PHP, MySQL and JavaScript.
@@ -18,9 +17,12 @@ with a strong understanding of backend systems.
 📫 Reach me at: sahildawale88@gmail.com  
 
 🔗 Connect with me  
-- LinkedIn: https://www.linkedin.com/in/sahil-dawale-5b5291271
-- GitHub: https://github.com/yourusername  
+- ## 🔗 Connect with Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-dawale-5b5291271)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+ 
 ---
 
 ## 🛠 Languages & Tools
