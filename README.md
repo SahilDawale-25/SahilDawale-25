@@ -12,10 +12,10 @@ with a strong understanding of backend systems.
 🌱 Learning Data Science & Machine Learning in depth  
 🤝 Open to internships & entry-level Data roles  
 
-📫 Reach me at: yourmail@gmail.com  
+📫 Reach me at: sahildawale88@gmail.com  
 
 🔗 Connect with me  
-- LinkedIn: https://linkedin.com/in/yourprofile  
+- LinkedIn: https:[//linkedin.com/in/yourprofile ](https://www.linkedin.com/in/sahil-dawale-5b5291271) 
 - GitHub: https://github.com/yourusername  
 
 ---
