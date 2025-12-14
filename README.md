@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hey there, I'm Sahil 👋  
+### Aspiring Data Scientist | Data Analyst | ML Enthusiast  
 
-<!--
-**SahilDawale-25/SahilDawale-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have transitioned into Data Science after working with
+web technologies such as PHP, MySQL and JavaScript.
+This background allows me to build data-driven solutions
+with a strong understanding of backend systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Working on real-world datasets & ML models  
+🌱 Learning Data Science & Machine Learning in depth  
+🤝 Open to internships & entry-level Data roles  
+
+📫 Reach me at: yourmail@gmail.com  
+
+🔗 Connect with me  
+- LinkedIn: https://linkedin.com/in/yourprofile  
+- GitHub: https://github.com/yourusername  
+
+---
+
+## 🛠 Languages & Tools
+
+**Languages:**  
+Python | SQL | PHP | JavaScript  
+
+**Data Analysis:**  
+Pandas | NumPy  
+
+**Machine Learning:**  
+Scikit-Learn  
+
+**Visualization:**  
+Matplotlib | Seaborn  
+
+**Web Technologies:**  
+HTML | CSS | JavaScript | PHP | MySQL  
+
+**Tools:**  
+Jupyter Notebook | Git | GitHub | XAMPP | VS Code  
+
+---
+
+## 📊 Data Science Projects
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Preprocessing
+- ML models using Scikit-Learn
+- Model evaluation & metrics
+
+---
+
+## 🌐 Web Development Projects
+- Turf Booking System (PHP + MySQL)
+- Courier Tracking Website
+- Responsive Portfolio Website
+
+---
+
+💡 *"Turning data into insights and applications."*
