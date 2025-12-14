@@ -40,20 +40,6 @@ HTML | CSS | JavaScript | PHP | MySQL
 **Tools:**  
 Jupyter Notebook | Git | GitHub | XAMPP | VS Code  
 
----
-
-## 📊 Data Science Projects
-- Exploratory Data Analysis (EDA)
-- Data Cleaning & Preprocessing
-- ML models using Scikit-Learn
-- Model evaluation & metrics
-
----
-
-## 🌐 Web Development Projects
-- Turf Booking System (PHP + MySQL)
-- Courier Tracking Website
-- Responsive Portfolio Website
 
 ---
 
