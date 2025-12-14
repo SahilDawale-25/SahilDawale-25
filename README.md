@@ -1,6 +1,9 @@
 # Hey there, I'm Sahil 👋  
 ### Aspiring Data Scientist | Data Analyst | ML Enthusiast  
 
+![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
+
 I have transitioned into Data Science after working with
 web technologies such as PHP, MySQL and JavaScript.
 This background allows me to build data-driven solutions
